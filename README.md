@@ -1,3 +1,5 @@
+# Making a widgets like Dropdown, Google translate, search on wikipedia and basic accordion.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
